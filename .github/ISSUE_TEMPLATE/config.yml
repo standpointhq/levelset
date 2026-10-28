@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help and account questions
+    url: https://standpointhq.com/help
+    about: Billing, books and sign in are handled on standpointhq.com.
+  - name: Security report
+    url: https://github.com/standpointhq/levelset/security/advisories/new
+    about: Report a vulnerability privately.

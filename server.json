@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.standpointhq/levelset",
+  "title": "Levelset by StandPoint",
+  "description": "Stock levels, picks with publish time and price, and a screener from StandPoint's desk. Read only.",
+  "version": "1.2.1",
+  "websiteUrl": "https://mcp.standpointhq.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://standpointhq.com/api/v1/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/standpointhq/levelset",
+    "source": "github"
+  }
+}
